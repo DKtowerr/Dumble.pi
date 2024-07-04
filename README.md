@@ -1,10 +1,10 @@
 # Dumble.pi
 
 ## integrantes / ROL :
- >Patricio Manzo     -----202430016-4
- >Issac Añazco       -----202310200-8
- >Gustavo Arancibia  -----202430010-5
- >Miguel Torres      -----202430027-K
+ +Patricio Manzo     >-----202430016-4
+ +Issac Añazco       >-----202310200-8
+ +Gustavo Arancibia  >-----202430010-5
+ +Miguel Torres      >-----202430027-K
 
 # Primeros pasos 
 
